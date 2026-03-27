@@ -1,6 +1,4 @@
-# Temperature-Prediction-based-on-pollutants-
-
-# 📊 Data Analysis & Visualization Project
+# 📊 Temperature Prediction based on pollutants
 
 ## 🚀 Overview
 
@@ -29,6 +27,22 @@ The notebook walks through each stage step-by-step, making it easy to understand
 
 ---
 
+## Locations 
+
+* Tirumala
+* Rajamahendravaram
+* Velagapudi
+* Visakhapatnam
+
+---
+
+## Models Used
+
+* LSTM
+* Random Forest
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Python**
@@ -37,18 +51,6 @@ The notebook walks through each stage step-by-step, making it easy to understand
 * **NumPy** – numerical operations
 * **Matplotlib / Seaborn** – visualization
 * **Scikit-learn** *(optional, if used)*
-
----
-
-## 📂 Project Structure
-
-```
-.
-├── ADS_Project_Final.ipynb   # Main notebook containing analysis
-├── data/                    # Dataset files (if included)
-├── outputs/                 # Generated plots and results
-└── README.md                # Project documentation
-```
 
 ---
 
@@ -90,7 +92,14 @@ jupyter notebook
 * Visualized relationships between variables
 * Derived meaningful insights to support analysis
 
-*(You can add screenshots of graphs here to enhance the README)*
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/65cdbfa3-1e63-4a34-85e8-e845726f5b5f" />
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/9fc92901-cc08-446e-9283-1bb5cd98089d" />
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/7173b41e-526e-4392-b839-84810244fb75" />
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/e9adfe5a-ba55-458b-bc50-09b0e1164207" />
+<img width="469" height="740" alt="image" src="https://github.com/user-attachments/assets/1f7c4433-ca47-4b81-ad74-aa3ac6b0b176" />
+<img width="464" height="638" alt="image" src="https://github.com/user-attachments/assets/c8047f7e-2759-4656-8b13-d525d505ff44" />
+<img width="940" height="808" alt="image" src="https://github.com/user-attachments/assets/623a24f7-5820-4c48-b731-9a098711f9dc" />
+
 
 ---
 
@@ -114,15 +123,9 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 👤 Author
 
-**Your Name**
+**Sanjana Kondragunta**
 GitHub: https://github.com/sanjana12k5
 
 ---
