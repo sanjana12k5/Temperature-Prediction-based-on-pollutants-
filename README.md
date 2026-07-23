@@ -123,12 +123,6 @@ Contributions are welcome!
 
 ---
 
-## 👤 Author
-
-**Sanjana Kondragunta**
-GitHub: https://github.com/sanjana12k5
-
----
 
 ## ⭐ Support
 
